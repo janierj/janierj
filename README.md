@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=janierj)](https://github.com/janierj/github-profile-trophy)
 
 <!--
 **janierj/janierj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
